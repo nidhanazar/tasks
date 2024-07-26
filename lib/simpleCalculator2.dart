@@ -122,6 +122,11 @@ class _Simplecalculator2State extends State<Simplecalculator2> {
           ),
 
           Spacer(),
+
+
+
+
+
           Container(
             alignment: Alignment.center,
             padding: EdgeInsets.all(100),

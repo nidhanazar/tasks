@@ -103,6 +103,7 @@ class _Simplecalculator2State extends State<Simplecalculator2> {
                   )
                 ),
 
+                SizedBox(width: 20,),
 
                 SizedBox(
                   width: 100,
